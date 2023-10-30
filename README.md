@@ -5,3 +5,9 @@
 [Nguyễn Thái](https://www.nguyenthai.id.vn/)<br>
 ## Python script
 [lvda](https://github.com/lvdat/)<br>
+## Lấy API Key Fshare
+Truy Cập trang 
+https://www.fshare.vn/api-doc
+
+## Chỉnh File Config
+![2023-10-30_112427](https://github.com/nqthaivl/Fshare-To-Drive/assets/85541851/65a2cbec-a98b-4707-b27f-acacd627366c)
